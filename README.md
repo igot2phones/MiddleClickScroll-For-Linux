@@ -1,6 +1,6 @@
 # MiddleClickScroll-For-Linux
 
-Because obviously what everyone wants from a middle mouse click is random clipboard paste chaos instead of useful scrolling.
+Because obviously what everyone wants from a middle mouse click is random clipboard paste chaos instead of useful scrolling—Windows did this part better years ago.
 
 This script configures GNOME on Linux so holding the middle mouse button lets you scroll (instead of pasting primary selection everywhere).
 
